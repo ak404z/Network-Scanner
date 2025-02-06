@@ -1,4 +1,4 @@
-# Network Scanner
+# Description
 This tool shows all devices on your network
 
 # Installation
