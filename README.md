@@ -1,5 +1,5 @@
 # Network Scanner
-This Tool shows most of the popular dark web sites
+This tool shows all devices on your network
 
 Welcome To AK Tools!
 
