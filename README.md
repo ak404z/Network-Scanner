@@ -14,9 +14,14 @@ Step 3 : To run the tool Write in Terminal (python AK_Network_Scanner.py)
 Usage: AK_Network_Scanner.py [options]
 
 Options:
-  -h, --help            show this help message and exit
-  -r NETWORK_IP, --range=NETWORK_IP
-                        To enter device IP or Network Range
+
+-h, --help ⬇⬇
+
+show this help message and exit
+
+-r NETWORK_IP, --range=NETWORK_IP ⬇⬇
+
+To enter device IP or Network Range
 
 # About Me
 Welcome To AK Tools!
