@@ -11,11 +11,7 @@ Step 2 : Download libraries to run the tool
 Step 3 : To run the tool Write in Terminal (python AK_Network_Scanner.py)
 
 # Usage
-Usage: AK_Network_Scanner.py [options]
-
-Options:
-
--h, --help ⬇⬇
+Usage: sudo python AK_Network_Scanner.py
 
 show this help message and exit
 
