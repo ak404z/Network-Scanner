@@ -1,4 +1,8 @@
 # Description
+
+<img width="572" height="496" alt="image" src="https://github.com/user-attachments/assets/addb9397-ffc8-4cf7-be67-e534b086033a" />
+
+
 This tool shows all devices on your network
 
 # Installation
@@ -12,12 +16,6 @@ Step 3 : To run the tool Write in Terminal (python AK_Network_Scanner.py)
 
 # Usage
 Usage: sudo python AK_Network_Scanner.py
-
-show this help message and exit
-
--r NETWORK_IP, --range=NETWORK_IP ⬇⬇
-
-To enter device IP or Network Range
 
 # About Me
 Welcome To AK Tools!
