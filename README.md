@@ -17,6 +17,8 @@ Step 3 : To run the tool Write in Terminal (python AK_Network_Scanner.py)
 # Usage
 Usage: sudo python AK_Network_Scanner.py
 
+⚠️ You must use sudo
+
 # About Me
 Welcome To AK Tools!
 
