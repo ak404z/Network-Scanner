@@ -1,7 +1,6 @@
 # Description
 
-<img width="572" height="496" alt="image" src="<img width="526" height="476" alt="image" src="https://github.com/user-attachments/assets/feffdea3-cc66-4957-9f56-ef2478ef1433" />
-" />
+<img width="526" height="476" alt="image" src="https://github.com/user-attachments/assets/5c6ebc41-2c1c-40e5-9ccb-edcda800325a" />
 
 
 This tool shows all devices on your network
